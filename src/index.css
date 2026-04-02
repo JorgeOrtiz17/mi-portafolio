@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Esto forzará el diseño aunque falle la detección automática */
+:root {
+  background-color: #0f172a;
+  color: white;
+}
