@@ -14,9 +14,9 @@ const Hero = () => {
 
       {/* Descripción */}
       <p className="max-w-2xl text-gray-300 mb-10 leading-relaxed">
-        Como futuro Ingeniero de Sistemas, me especializo en el ciclo de vida completo de aplicaciones modernas. 
-        Mi enfoque combina el desarrollo Frontend de alto rendimiento con análisis de datos, 
-        transformando información compleja en soluciones estratégicas y escalables.
+        Ingeniero de Sistemas enfocado en la arquitectura de soluciones 
+        donde la convergencia técnica entre el desarrollo Full-Stack, 
+        el Análisis de Datos y la Inteligencia Artificial define el valor del producto.
       </p>
 
       {/* Tarjetas */}
