@@ -14,9 +14,11 @@ const Hero = () => {
 
       {/* Descripción */}
       <p className="max-w-2xl text-gray-300 mb-10 leading-relaxed">
-        Ingeniero de Sistemas enfocado en la arquitectura de soluciones 
-        donde la convergencia técnica entre el desarrollo Full-Stack, 
-        el Análisis de Datos y la Inteligencia Artificial define el valor del producto.
+        Ingeniero de Sistemas orientado a la arquitectura de soluciones, 
+        con un enfoque integral que combina desarrollo Full-Stack, análisis de datos e inteligencia artificial 
+        para crear productos escalables, eficientes y centrados en el valor del negocio. 
+        Me especializo en integrar tecnologías y metodologías que permiten transformar datos en decisiones 
+        estratégicas y soluciones innovadoras.
       </p>
 
       {/* Tarjetas */}
