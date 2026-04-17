@@ -38,7 +38,7 @@ const Hero = () => {
           <div className="text-emerald-400 mb-4 text-2xl">🗄️</div>
           <h3 className="font-bold text-lg mb-2">Backend & Arquitectura</h3>
           <p className="text-slate-400 text-sm">
-            Integración con Firebase, manejo de datos en tiempo real y lógica de negocio robusta.
+            Backend: Node.js (Nest.js), Spring Boot, APIs REST, Firebase.
           </p>
         </div>
 
