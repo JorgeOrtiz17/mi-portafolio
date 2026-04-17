@@ -7,7 +7,7 @@ const skillCategories = [
   },
   {
     title: "Backend & Cloud",
-    skills: ["Firebase (Auth & Firestore)", "Node.js", "Gestión de Servidores", "Linux"],
+    skills: ["Node.js (Nest.js)", "Spring Boot", "APIs REST", "Firebase"],
     icon: "📂",
     glow: "group-hover:after:bg-emerald-500/10"
   },
