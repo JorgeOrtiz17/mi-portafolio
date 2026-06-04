@@ -1,14 +1,14 @@
 const projects = [
   {
-    title: "Sistema de Gestión Estudiantil",
+    title: "Interfaces dinámicas con React y Vite para registro académico e integración con Firebase.",
     role: "Frontend Developer",
-    description: "Interfaces dinámicas con React y Vite para registro académico e integración con Firebase.",
+    description: "Plataforma académica desarrollada con React y Firebase para centralizar el registro estudiantil, autenticación de usuarios y gestión de información académica en tiempo real.",
     tags: ["React", "Firebase", "Tailwind"]
   },
   {
     title: "Evaluación de Modelos LLM",
     role: "Analista de Datos",
-    description: "Plataforma de visualización de métricas de rendimiento para la toma de decisiones técnicas.",
+    description: "Dashboard analítico en Power BI para comparar modelos de lenguaje (LLMs), evaluando precisión, costo, latencia y eficiencia para apoyar decisiones tecnológicas.",
     tags: ["Python", "PowerBI", "LLMs"]
   },
   {
